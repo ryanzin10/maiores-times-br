@@ -21,8 +21,15 @@
     color: rgb(255, 255, 255);
     border: 1px;
 }
+#asolo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
 p, .content{
     font-family: 'Girassol', cursive;
+    text-align: center;
+}
+.contato{
     text-align: center;
 }
 .button-is-dark{
