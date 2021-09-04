@@ -21,6 +21,26 @@
     color: rgb(255, 255, 255);
     border: 1px;
 }
+.contato{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    border: 0.5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#formulario{
+    text-align: center;
+}
+.form1{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#msg{
+    height: 100px;
+}
 #asolo{
     font-family: 'Bebas Neue', cursive;
     font-size: 20px;
